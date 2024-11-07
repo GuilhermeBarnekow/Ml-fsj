@@ -1,5 +1,6 @@
-Remanejamento Inteligente de Produtos entre Lojas
-Visão Geral
+Remanejamento Inteligente de Produtos entre Lojas.
+Visão Geral:
+
 Este projeto utiliza Machine Learning para otimizar o remanejamento de produtos entre diferentes lojas. O objetivo é maximizar as vendas, minimizar produtos próximos à data de vencimento e melhorar a eficiência logística.
 
 Estrutura do Repositório:
