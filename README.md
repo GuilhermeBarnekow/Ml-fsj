@@ -21,11 +21,12 @@ remanejamento-produtos/
 └── LICENSE
 
 
-Pré-requisitos
+## Pré-requisitos:
 Python 3.7+
 Bibliotecas Python listadas em requirements.txt
 Instalação
-Clone o Repositório:
+
+## Clone o Repositório:
 
 ```
 git clone https://github.com/GuilhermeBarnekow/remanejamento-produtos.git
