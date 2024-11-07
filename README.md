@@ -28,7 +28,7 @@ Instalação
 Clone o Repositório:
 
 ```
-git clone https://github.com/seu-usuario/remanejamento-produtos.git
+git clone https://github.com/GuilhermeBarnekow/remanejamento-produtos.git
 ```
 ```
 cd remanejamento-produtos
