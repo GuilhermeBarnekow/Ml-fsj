@@ -40,13 +40,23 @@ Crie um Ambiente Virtual (Opcional but recomendado):
 python -m venv venv
 ```
 
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+Para ativar (Linux) 
+
+```source venv/bin/activate```
+
+# No Windows:
+
+``` venv\Scripts\activate```
+
+
 Instale as Dependências:
 
 ```
 pip install -r requirements.txt
 ```
 Uso
+
+
 Prepare os Dados:
 
 Coloque os arquivos CSV (vendas.csv, estoque.csv, lojas.csv, produtos.csv) na pasta data/.
